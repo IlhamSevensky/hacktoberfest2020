@@ -1,19 +1,17 @@
 # Hacktoberfest 2020
 
----
-
 ## How to contribute
 
 1. Fork this repository
    
    ```
-   https://github.com/IlhamSevensky/hacktoberfest2020.github.io
+   https://github.com/IlhamSevensky/hacktoberfest2020.git
    ```
 
 2. Clone forked repository
    
    ```
-   https://github.com/{your-username}/hacktoberfest2020.github.io
+   https://github.com/{your-username}/hacktoberfest2020.git
    ```
 
 3. Open index.html in the code editor and modify the following lines
@@ -76,7 +74,7 @@
   
   - **You can see the results of your approved pull request via the following link**
     
-    [Hacktoberfest 2020 Contributors](http://hacktoberfest2020.github.io)
+    [Hacktoberfest 2020 Contributors](https://ilhamsevensky.github.io/hacktoberfest2020/)
 
 ---
 
