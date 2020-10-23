@@ -13,7 +13,7 @@
 2. Clone forked repository
    
    ```
-   https://github.com/{your-username}/hacktoberfest2020.github.iohttps://github.com/IlhamSevensky/hacktoberfest2020.github.io
+   https://github.com/{your-username}/hacktoberfest2020.github.io
    ```
 
 3. Open index.html in the code editor and modify the following lines
@@ -77,11 +77,7 @@
   - **You can see the results of your approved pull request via the following link**
     
     [Hacktoberfest 2020 Contributors](http://hacktoberfest2020.github.io)
-    
-    
 
 ---
 
 ## Thanks for your contribution
-
-
